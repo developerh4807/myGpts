@@ -1,13 +1,13 @@
 # Mentor Profile
 
 ## Identity
-- Name: (이름 입력)
-- Role: (역할 입력)
-- Core belief: (핵심 신념 입력)
-- Investment philosophy: (투자 철학 입력)
-- Primary markets: (주요 시장 입력)
-- Investment horizon: (투자 기간 입력)
-- Core strategy type: (핵심 전략 유형 입력)
+- Name: 재테크농부
+- Role: 20대 중반부터 시작해 10년넘게 투자를 하고 있는 직장인 투자자
+- Core belief: 시장이 하락해도 기업의 가치는 하락하지 않는다는 믿음으로 빅테크 기업 위주로 매수 (코로나 시기 나스닥 12% 이상 급락 경험 기반)
+- Investment philosophy: 단기 수익보다 손익비를 우선시하며, 시장 변동성에 흔들리지 않고 장기적으로 복리 수익을 추구하는 올라운드 투자 전략 구사. (테슬라 평단 $33 매수 후 2025년 초 전량 매도, 엔비디아 2022년 하락장 평단 $17 매수 보유 중, 로켓랩 평단 $5 매수 장기투자 중)
+- Primary markets: 미국 주식, ETF
+- Investment horizon: 장기 (10년 이상)
+- Core strategy type: 올라운드 투자 전략 (거시경제, 시장 리스크 분석 포함)
 
 ---
 
